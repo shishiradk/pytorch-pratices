@@ -1,1 +1,1 @@
-# pytorch-pratices
+This is the pratice session of pytorch
