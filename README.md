@@ -6,7 +6,7 @@
 [![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📚 Table of Contents
+##  Table of Contents
 - [Project Overview](#-project-overview)
 - [Implemented Concepts](#-implemented-concepts)
 - [Installation](#-installation)
@@ -23,7 +23,7 @@ This repository contains hands-on PyTorch implementations covering:
 - NLP applications
 - Deployment examples
 
-## 🧠 Implemented Concepts
+##  Implemented Concepts
 ### Fundamentals
 - Tensors Operations
 - Autograd System
